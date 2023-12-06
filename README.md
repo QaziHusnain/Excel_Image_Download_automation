@@ -20,4 +20,14 @@ pip install pandas requests
 git clone https://github.com/QaziHusnain/Excel_Image_Download_automation.git
 cd Excel_Image_Download_automation
 python main.py
+Usage
 
+    The GUI window will appear.
+
+    Click the "Browse" button to select the Excel file containing image URLs.
+
+    Click the "Start Download" button to initiate the download process.
+
+    The result label will display the status of the download process.
+
+This project is licensed under the MIT License - see the LICENSE file for details.
